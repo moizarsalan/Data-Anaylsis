@@ -1,0 +1,23 @@
+Year,Company Name,Stock Exchange,Industry,Country,Closing Stock Price,Market Index Value,Trading Volume,Debt Restructuring Announcement Date,Type of Debt Restructuring,Return on Assets (ROA),Return on Equity (ROE)
+2011,RadioShack,NYSE,Retail,USA,2.15,2800.55,500000,05/09/2011,Refinancing,1.2,4.5
+2013,Puerto Rico Electric Power Authority,NYSE,Energy,USA,5.8,7600.45,850000,18/07/2013,Debt-for-Equity Swap,2.5,5.9
+2015,Toys 'R' Us,NYSE,Retail,USA,0,0,0,22/11/2015,Bankruptcy Reorganization,-0.8,-2.1
+2017,Essar Steel India Ltd.,BSE,Steel,India,12.3,14200.3,920000,30/06/2017,Refinancing,3.1,8.5
+2019,Interserve,LSE,Construction,UK,1.75,3500.6,470000,10/12/2019,Debt-for-Equity Swap,1.9,3.2
+2021,Jet Airways,BSE,Aviation,India,3.2,7200.1,1100000,05/04/2021,Bankruptcy Reorganization,2.8,6
+2022,Thomas Cook Group,LSE,Travel,UK,0.45,0,0,15/08/2022,Refinancing,-1.5,-3
+2023,Forever 21,NYSE,Fashion,USA,8.6,8800.5,1400000,25/05/2023,Debt-for-Equity Swap,2.3,4.7
+2024,Frontier Communications,NASDAQ,Telecom,USA,4.1,6300.9,980000,09/02/2024,Bankruptcy Reorganization,1.7,3.1
+2010,J.C. Penney,NYSE,Retail,USA,1.25,2900.2,450000,15/04/2010,Bankruptcy Reorganization,1,3.8
+2012,Hertz Global Holdings,NYSE,Automotive,USA,3.8,7700.9,720000,10/09/2012,Refinancing,2.3,5.2
+2014,Chesapeake Energy,NYSE,Energy,USA,5.1,8100.5,870000,20/06/2014,Debt-for-Equity Swap,-1.1,-2.5
+2016,LATAM Airlines Group,BVMF,Aviation,Brazil,9.6,13500.8,1020000,05/12/2016,Bankruptcy Reorganization,3,7.5
+2018,Cirque du Soleil,TSX,Entertainment,Canada,7.2,9200.6,630000,18/03/2018,Refinancing,1.7,2.9
+2020,GNC Holdings,NYSE,Health,USA,2.5,7800.1,950000,22/07/2020,Debt-for-Equity Swap,2.2,4.5
+2021,Intelsat,NYSE,Telecom,USA,6.75,8300.3,760000,30/11/2021,Bankruptcy Reorganization,1.9,3.6
+2013,Virgin Australia,ASX,Aviation,Australia,0.75,6200.1,550000,10/05/2013,Refinancing,1.5,4.2
+2015,Neiman Marcus,NYSE,Retail,USA,3.2,7900.5,680000,15/08/2015,Bankruptcy Reorganization,2.7,5.8
+2017,Ascena Retail Group,NASDAQ,Retail,USA,2.45,8500.2,730000,20/10/2017,Debt-for-Equity Swap,1.3,3.9
+2019,Guitar Center,NYSE,Music,USA,1.8,9100.3,810000,05/12/2019,Refinancing,2,4.7
+2022,AMC Entertainment,NYSE,Entertainment,USA,4.6,9500.6,920000,18/06/2022,Bankruptcy Reorganization,3.5,6.1
+2023,Cineworld Group,LSE,Entertainment,UK,3.1,9800.4,990000,25/09/2023,Debt-for-Equity Swap,2.8,5.3
